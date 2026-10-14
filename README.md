@@ -6,10 +6,10 @@ I've had the opportunity to share my expertise as a speaker at Vienna.js and Sve
 
 Connect with me on Github, Linkedin, X or Bluesky, and check out my website at [danirukun.com](https://danirukun.com).
 
-💡 Most used techs: TypeScript, Go, Svelte, React
+Most used techs: TypeScript, Go, Svelte, React
 
-🔧 Also experienced in: Elixir, Erlang, Python, NextJS, ThreeJS and computer graphics
+Agentic tools: Cursor, Claude, Mastra, Herdr and others. Previously built my own harness for StreamWidgetsPro.
 
-🚨 I'm available for freelance.
+Also experienced in: Elixir, Erlang, Python, NextJS, ThreeJS and computer graphics
 
-📨 Feel free to contact me at dan@danirukun.com.
+Feel free to contact me at dan@danirukun.com.
